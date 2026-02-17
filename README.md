@@ -17,7 +17,7 @@ This project was part of the JavaScript scope module and is intended to introduc
 
 * The concept of scope, differences between global scope and block scope.
 * The importance of not polluting the global namespace.
-* How to troubleshoot `ReferenceErrors` when they are due to scope issues.
+* How to troubleshoot `ReferenceError`'s when they are due to scope issues.
 
 
 ## Where can I view the code?
